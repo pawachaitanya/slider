@@ -1,7 +1,48 @@
-{
-  "sideEffects": false,
-  "module": "../esm/Slider/index.js",
-  "typings": "./index.d.ts",
-  "name": "Slider",
 
+{
+    "sideEffects": false,
+    "module": "../esm/Slider/index.js",
+    "typings": "./index.d.ts",
+  "_inBundle": false,
+  "_integrity": "sha512-pQdCE9G9CgtMdnE4yjUt9vqrcFyz2zh7Ks7oC4idhLOH5xr7elFPDfXJR7JYcZMbgTADaGzJMsjPGGxccq2pCA==",
+  "_location": "/Slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "Slider",
+    "name": "Slider",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ]
+  "_shasum": "d97e48e7b70825c477390e6da34f4253eb02dbd0",
+  "_spec": "Slider",
+  "_where": "/Users/chaitanyapawa/MTX2/ai-engine-loan-web-dashboard",
+  "author": {
+    "name": "weKnow Inc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "keywords": [
+    "ReactJS",
+    "Component",
+    "D3",
+    "Charts",
+    "Bubble",
+    "Graphics"
+  ],
+  "license": "GPL-3.0",
+  "main": "lib/index.js",
+  "name": "Slider",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawachaitanya/slider.git"
+  },
+  "version": "1.0.12"
 }
