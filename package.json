@@ -1,5 +1,7 @@
 {
   "sideEffects": false,
   "module": "../esm/Slider/index.js",
-  "typings": "./index.d.ts"
+  "typings": "./index.d.ts",
+  "name": "Slider",
+
 }
